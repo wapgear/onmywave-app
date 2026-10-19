@@ -4,7 +4,7 @@ A macOS music player for your Jellyfin library, with optional spoken news betwee
 
 [Download the latest release](https://github.com/wapgear/onmywave-app/releases/latest)
 
-![The song library in onmywave.fm](images/library.png)
+![The album library with release cover artwork](images/albums.png)
 
 ## What it does
 
@@ -13,6 +13,10 @@ A macOS music player for your Jellyfin library, with optional spoken news betwee
 - Manage a listening queue with shuffle, repeat, and session restoration.
 - Prepare spoken news from RSS, Hacker News, or X, then play it between songs.
 - Choose a DJ voice and audition bundled samples without provider keys.
+
+![The song library and DJ breaks panel in onmywave.fm](images/library.png)
+
+Screenshots use the [website demo](https://onmywave.izmailov.dev/) catalog with real song titles and matching release covers. See [screenshot sources](images/README.md).
 
 ## Get started
 
