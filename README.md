@@ -1,10 +1,10 @@
-# onmywave.fm Light
+# onmywave.fm
 
 A macOS music player for your Jellyfin library, with optional spoken news between songs.
 
-[Download the latest release](https://github.com/wapgear/onmywave-desktop-light-app/releases/latest)
+[Download the latest release](https://github.com/wapgear/onmywave-app/releases/latest)
 
-![The song library in onmywave.fm Light](images/library.png)
+![The song library in onmywave.fm](images/library.png)
 
 ## What it does
 
@@ -16,8 +16,8 @@ A macOS music player for your Jellyfin library, with optional spoken news betwee
 
 ## Get started
 
-1. Download the `.dmg` from the [latest release](https://github.com/wapgear/onmywave-desktop-light-app/releases/latest).
-2. Open it and drag onmywave.fm Light into Applications.
+1. Download the `.dmg` from the [latest release](https://github.com/wapgear/onmywave-app/releases/latest).
+2. Open it and drag onmywave.fm into Applications.
 3. Launch the app, enter your Jellyfin server URL, and sign in.
 4. Select your music libraries and choose a song or album.
 
